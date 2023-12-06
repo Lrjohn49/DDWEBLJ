@@ -7,9 +7,9 @@ const Nav = ({ title }) => (
             <div class="navbar-nav container align-items-center">
                 <span class="navbar-text col-8 text-start text-primary">{title}</span>
                 <a class="nav-link col-1 text-center link-primary" href="#about">About</a>
-                <a class="nav-link col-1 text-center link-primary" href="#skills">Skills</a>
-                <a class="nav-link col-1 text-center link-primary" href="#projects">Projects</a>
-                <a class="nav-link col-1 text-center link-primary" href="#contact">Contact</a>
+                <a class="nav-link col-1 text-center link-primary" href="#value">Dennis Dillon Value</a>
+                <a class="nav-link col-1 text-center link-primary" href="#inventory">Inventory</a>
+                <a class="nav-link col-1 text-center link-primary" href="#contact">Contact Me</a>
             </div>
         </div>
     </nav>
